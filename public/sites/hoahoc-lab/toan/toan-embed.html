@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CT99-CAS — Bộ máy tính khoa học</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23161b22'/%3E%3Crect x='5' y='5' width='22' height='9' rx='2' fill='%23c9d6b8'/%3E%3Cg fill='%23e4e6e8'%3E%3Crect x='5' y='17' width='6' height='4' rx='1'/%3E%3Crect x='13' y='17' width='6' height='4' rx='1'/%3E%3Crect x='21' y='17' width='6' height='4' rx='1'/%3E%3Crect x='5' y='23' width='6' height='4' rx='1'/%3E%3Crect x='13' y='23' width='6' height='4' rx='1'/%3E%3C/g%3E%3Crect x='21' y='23' width='6' height='4' rx='1' fill='%23e5694f'/%3E%3C/svg%3E">
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#181c26">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="CT99-CAS">
+<link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+<script>
+// Vô hiệu hóa Service Worker trong iframe để tránh xung đột cache với Next.js
+if ('serviceWorker' in navigator) {
+  try {
+    navigator.serviceWorker.getRegistrations().then(function (registrations) {
+      for (var i = 0; i < registrations.length; i++) {
+        registrations[i].unregister();
+      }
+    });
+  } catch (_) {}
+  navigator.serviceWorker.register = function () {
+    return Promise.reject(new Error('Service Worker registration is disabled in iframe.'));
+  };
+}
+</script>
+<script>
+// 1. Tự động dọn sạch mã theo dõi fbclid trên thanh địa chỉ nếu có
+if (location.search.includes('fbclid=')) {
+  try {
+    var u = new URL(location.href);
+    u.searchParams.delete('fbclid');
+    window.history.replaceState(null, '', u.pathname + (u.search ? u.search : '') + u.hash);
+  } catch (_) {}
+}
+// 2. Bắt ngay sự kiện beforeinstallprompt ở thẻ <head> trước khi các module JS lớn được nạp,
+// tránh việc Chromium / Edge tự tiêu thụ sự kiện và không kích hoạt được hộp thoại cài đặt qua nút.
+window.__deferredPrompt = null;
+window.addEventListener('beforeinstallprompt', function (e) {
+  e.preventDefault();
+  window.__deferredPrompt = e;
+  window.dispatchEvent(new CustomEvent('pwa-deferred-ready'));
+});
+</script>
+<script>
+window.MathJax = {
+  options: {
+    enableAssistiveMml: false
+  },
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$']]
+  },
+  svg: {
+    fontCache: 'local'
+  },
+  startup: {
+    typeset: false
+  }
+};
+</script>
+<script defer src="./mathjax/tex-svg.js"></script>
+  <meta name="copyright" content="© 2026 CT99. All rights reserved.">
+  <script type="module" crossorigin src="./assets/main-ZS0F9fps.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/OrbitControls-D5F1xj6c.js">
+  <link rel="stylesheet" crossorigin href="./assets/sweetalert2.css">
+  <link rel="stylesheet" crossorigin href="./assets/OrbitControls-C_1PYvKB.css">
+  <link rel="stylesheet" crossorigin href="./assets/main-DSAFqZh2.css">
+</head>
+<body>
+<div id="app">
+  <div id="stage"><div class="device" id="device"></div></div>
+  <main id="main">
+    <header id="dock"></header>
+    <div id="work"></div>
+  </main>
+</div>
+</body>
+</html>

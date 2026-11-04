@@ -1,0 +1,1472 @@
+[
+  {
+    "id": "water",
+    "left": [
+      "H2",
+      "O2"
+    ],
+    "right": [
+      "H2O"
+    ],
+    "conditions": "Mồi lửa / tia lửa; hỗn hợp khí. Nước tạo thành ban đầu có thể ở dạng hơi.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "l"
+    ],
+    "type": "Tổng hợp",
+    "observation": "Phản ứng toả nhiệt mạnh; sau làm nguội thu được nước."
+  },
+  {
+    "id": "magnesium",
+    "left": [
+      "Mg",
+      "O2"
+    ],
+    "right": [
+      "MgO"
+    ],
+    "conditions": "Đốt nóng magnesium trong oxygen.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s"
+    ],
+    "type": "Oxi hoá – khử",
+    "observation": "Magnesium cháy sáng, tạo chất rắn trắng."
+  },
+  {
+    "id": "iron-oxygen",
+    "left": [
+      "Fe",
+      "O2"
+    ],
+    "right": [
+      "Fe3O4"
+    ],
+    "conditions": "Đốt sắt trong oxygen; chọn lộ trình tạo Fe₃O₄.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s"
+    ],
+    "type": "Oxi hoá – khử",
+    "observation": "Sắt cháy mạnh trong oxygen, tia lửa sáng chói bắn ra, tạo chất rắn màu nâu đen (Fe₃O₄)."
+  },
+  {
+    "id": "carbon",
+    "left": [
+      "C",
+      "O2"
+    ],
+    "right": [
+      "CO2"
+    ],
+    "conditions": "Đốt carbon trong oxygen dư.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "g"
+    ],
+    "type": "Cháy",
+    "observation": "Carbon cháy sáng chói trong oxygen, tỏa nhiều nhiệt, tạo khí không màu (CO₂)."
+  },
+  {
+    "id": "sulfur",
+    "left": [
+      "S",
+      "O2"
+    ],
+    "right": [
+      "SO2"
+    ],
+    "conditions": "Đốt sulfur trong oxygen.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "g"
+    ],
+    "type": "Cháy",
+    "observation": "Sulfur cháy với ngọn lửa màu xanh lam nhạt, sinh khí không màu có mùi hắc đặc trưng (SO₂)."
+  },
+  {
+    "id": "copper-oxygen",
+    "left": [
+      "Cu",
+      "O2"
+    ],
+    "right": [
+      "CuO"
+    ],
+    "conditions": "Đun nóng copper trong oxygen dư.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s"
+    ],
+    "type": "Oxi hoá – khử",
+    "observation": "Đồng đỏ bị oxi hóa chuyển dần thành chất rắn màu đen (CuO) bám trên bề mặt."
+  },
+  {
+    "id": "aluminium",
+    "left": [
+      "Al",
+      "O2"
+    ],
+    "right": [
+      "Al2O3"
+    ],
+    "conditions": "Đốt bột aluminium; phá lớp oxide bảo vệ.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s"
+    ],
+    "type": "Oxi hoá – khử",
+    "observation": "Bột nhôm cháy sáng chói lóa, tỏa nhiệt lượng rất lớn, sinh chất bột màu trắng (Al₂O₃)."
+  },
+  {
+    "id": "hydrogen-chlorine",
+    "left": [
+      "H2",
+      "Cl2"
+    ],
+    "right": [
+      "HCl"
+    ],
+    "conditions": "Ánh sáng hoặc mồi lửa; phản ứng giữa hai khí.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "g"
+    ],
+    "type": "Tổng hợp",
+    "observation": "Hỗn hợp nổ nhẹ hoặc cháy trong ánh sáng, khí vàng lục (Cl₂) nhạt màu dần tạo khí không màu (HCl)."
+  },
+  {
+    "id": "sodium-chlorine",
+    "left": [
+      "Na",
+      "Cl2"
+    ],
+    "right": [
+      "NaCl"
+    ],
+    "conditions": "Đốt sodium trong chlorine.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s"
+    ],
+    "type": "Tổng hợp",
+    "observation": "Sodium nóng chảy cháy sáng rực rỡ với ngọn lửa màu vàng trong khí chlorine, sinh khói trắng (NaCl)."
+  },
+  {
+    "id": "iron-sulfur",
+    "left": [
+      "Fe",
+      "S"
+    ],
+    "right": [
+      "FeS"
+    ],
+    "conditions": "Đun nóng hỗn hợp sắt và sulfur.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s"
+    ],
+    "type": "Tổng hợp",
+    "observation": "Hỗn hợp tự nóng sáng đỏ khi được mồi nhiệt, tạo thành chất rắn màu đen xám (FeS)."
+  },
+  {
+    "id": "methane",
+    "left": [
+      "CH4",
+      "O2"
+    ],
+    "right": [
+      "CO2",
+      "H2O"
+    ],
+    "conditions": "Mồi lửa, oxygen dư; đốt cháy hoàn toàn.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "g",
+      "g"
+    ],
+    "type": "Cháy",
+    "observation": "Khí methane cháy với ngọn lửa màu xanh lam, tỏa nhiều nhiệt, sinh CO₂ và hơi nước."
+  },
+  {
+    "id": "ethane",
+    "left": [
+      "C2H6",
+      "O2"
+    ],
+    "right": [
+      "CO2",
+      "H2O"
+    ],
+    "conditions": "Mồi lửa, oxygen dư; đốt cháy hoàn toàn.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "g",
+      "g"
+    ],
+    "type": "Cháy",
+    "observation": "Khí ethane cháy với ngọn lửa màu xanh sáng, tỏa nhiệt mạnh, sinh CO₂ và hơi nước."
+  },
+  {
+    "id": "propane",
+    "left": [
+      "C3H8",
+      "O2"
+    ],
+    "right": [
+      "CO2",
+      "H2O"
+    ],
+    "conditions": "Mồi lửa, oxygen dư; đốt cháy hoàn toàn.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "g",
+      "g"
+    ],
+    "type": "Cháy",
+    "observation": "Khí propane cháy sáng tỏa nhiều nhiệt, sinh hỗn hợp khí CO₂ và hơi nước."
+  },
+  {
+    "id": "ethanol",
+    "left": [
+      "C2H5OH",
+      "O2"
+    ],
+    "right": [
+      "CO2",
+      "H2O"
+    ],
+    "conditions": "Mồi lửa, oxygen dư; đốt cháy hoàn toàn.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "g",
+      "g"
+    ],
+    "type": "Cháy",
+    "observation": "Ethanol cháy với ngọn lửa màu xanh không khói, tỏa nhiều nhiệt, sinh CO₂ và H₂O."
+  },
+  {
+    "id": "calcium-oxide",
+    "left": [
+      "CaO",
+      "H2O"
+    ],
+    "right": [
+      "Ca(OH)2"
+    ],
+    "conditions": "Cho calcium oxide tiếp xúc với nước.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s"
+    ],
+    "type": "Tổng hợp",
+    "observation": "Toả nhiệt; Ca(OH)₂ ít tan. Chất rắn tạo từ vôi sống không ghi dấu kết tủa từ dung dịch."
+  },
+  {
+    "id": "sodium-water",
+    "left": [
+      "Na",
+      "H2O"
+    ],
+    "right": [
+      "NaOH",
+      "H2"
+    ],
+    "conditions": "Nước lỏng, nhiệt độ thường.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g"
+    ],
+    "type": "Thế",
+    "observation": "Sinh hydrogen và dung dịch kiềm; toả nhiệt."
+  },
+  {
+    "id": "calcium-water",
+    "left": [
+      "Ca",
+      "H2O"
+    ],
+    "right": [
+      "Ca(OH)2",
+      "H2"
+    ],
+    "conditions": "Nước lỏng, nhiệt độ thường.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s",
+      "g"
+    ],
+    "type": "Thế",
+    "observation": "Calcium tan sủi bọt khí không màu (H₂), dung dịch vẩn đục trắng do Ca(OH)₂ ít tan sinh ra."
+  },
+  {
+    "id": "zinc-acid",
+    "left": [
+      "Zn",
+      "HCl"
+    ],
+    "right": [
+      "ZnCl2",
+      "H2"
+    ],
+    "conditions": "Dung dịch hydrochloric acid loãng.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g"
+    ],
+    "type": "Thế",
+    "observation": "Kẽm tan dần trong acid, sủi bọt khí không màu không mùi (H₂), ống nghiệm ấm lên."
+  },
+  {
+    "id": "iron-acid",
+    "left": [
+      "Fe",
+      "HCl"
+    ],
+    "right": [
+      "FeCl2",
+      "H2"
+    ],
+    "conditions": "Dung dịch hydrochloric acid loãng; không có chất oxi hoá khác.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g"
+    ],
+    "type": "Thế",
+    "observation": "Sắt tan dần, sủi bọt khí không màu (H₂), dung dịch chuyển sang màu lục nhạt của muối Fe(II)."
+  },
+  {
+    "id": "magnesium-acid",
+    "left": [
+      "Mg",
+      "HCl"
+    ],
+    "right": [
+      "MgCl2",
+      "H2"
+    ],
+    "conditions": "Dung dịch hydrochloric acid loãng.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g"
+    ],
+    "type": "Thế",
+    "observation": "Magnesium tan nhanh, sủi bọt khí mãnh liệt (H₂), phản ứng tỏa nhiệt mạnh."
+  },
+  {
+    "id": "aluminium-acid",
+    "left": [
+      "Al",
+      "HCl"
+    ],
+    "right": [
+      "AlCl3",
+      "H2"
+    ],
+    "conditions": "Dung dịch hydrochloric acid; lớp oxide ban đầu phải tan.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g"
+    ],
+    "type": "Thế",
+    "observation": "Nhôm tan dần, sủi bọt khí không màu liên tục (H₂), tỏa nhiều nhiệt."
+  },
+  {
+    "id": "zinc-sulfate",
+    "left": [
+      "Zn",
+      "H2SO4"
+    ],
+    "right": [
+      "ZnSO4",
+      "H2"
+    ],
+    "conditions": "Sulfuric acid loãng; không áp dụng cho acid đặc.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g"
+    ],
+    "type": "Thế",
+    "observation": "Kẽm tan dần trong acid sulfuric loãng, sủi bọt khí không màu (H₂)."
+  },
+  {
+    "id": "iron-sulfate",
+    "left": [
+      "Fe",
+      "H2SO4"
+    ],
+    "right": [
+      "FeSO4",
+      "H2"
+    ],
+    "conditions": "Sulfuric acid loãng; không áp dụng cho acid đặc.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g"
+    ],
+    "type": "Thế",
+    "observation": "Sắt tan dần trong acid loãng, có bọt khí H₂ thoát ra, dung dịch dần ngả sang màu lục nhạt."
+  },
+  {
+    "id": "neutralise",
+    "left": [
+      "HCl",
+      "NaOH"
+    ],
+    "right": [
+      "NaCl",
+      "H2O"
+    ],
+    "conditions": "Hai dung dịch trong nước; lượng acid và base phù hợp.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "l"
+    ],
+    "type": "Trung hoà",
+    "observation": "Phản ứng trung hòa acid - base tỏa nhiệt nhẹ; dung dịch trong suốt không màu."
+  },
+  {
+    "id": "sulfate-base",
+    "left": [
+      "H2SO4",
+      "NaOH"
+    ],
+    "right": [
+      "Na2SO4",
+      "H2O"
+    ],
+    "conditions": "Dung dịch; trung hoà hoàn toàn hai proton của sulfuric acid.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "l"
+    ],
+    "type": "Trung hoà",
+    "observation": "Phản ứng trung hòa tỏa nhiệt; hai dung dịch trong suốt trộn lẫn không đổi màu."
+  },
+  {
+    "id": "potassium-neutralise",
+    "left": [
+      "HNO3",
+      "KOH"
+    ],
+    "right": [
+      "KNO3",
+      "H2O"
+    ],
+    "conditions": "Dung dịch trong nước.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "l"
+    ],
+    "type": "Trung hoà",
+    "observation": "Phản ứng trung hòa tỏa nhiệt, tạo dung dịch muối KNO₃ trong suốt."
+  },
+  {
+    "id": "acetic-neutralise",
+    "left": [
+      "CH3COOH",
+      "NaOH"
+    ],
+    "right": [
+      "CH3COONa",
+      "H2O"
+    ],
+    "conditions": "Dung dịch trong nước.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "l"
+    ],
+    "type": "Trung hoà",
+    "observation": "Phản ứng tỏa nhiệt nhẹ; mùi giấm chua biến mất khi được trung hòa bởi NaOH."
+  },
+  {
+    "id": "copper-oxide-acid",
+    "left": [
+      "CuO",
+      "HCl"
+    ],
+    "right": [
+      "CuCl2",
+      "H2O"
+    ],
+    "conditions": "Cho CuO vào dung dịch HCl, có thể đun ấm.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "l"
+    ],
+    "type": "Acid – base",
+    "observation": "Chất bột màu đen (CuO) tan dần, dung dịch chuyển sang màu xanh lam đặc trưng của ion Cu²⁺."
+  },
+  {
+    "id": "iron-oxide-acid",
+    "left": [
+      "Fe2O3",
+      "HCl"
+    ],
+    "right": [
+      "FeCl3",
+      "H2O"
+    ],
+    "conditions": "Cho oxide vào dung dịch HCl, có thể đun ấm.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "l"
+    ],
+    "type": "Acid – base",
+    "observation": "Chất bột nâu đỏ (Fe₂O₃) tan dần, dung dịch chuyển sang màu vàng nâu của ion Fe³⁺."
+  },
+  {
+    "id": "limestone-acid",
+    "left": [
+      "CaCO3",
+      "HCl"
+    ],
+    "right": [
+      "CaCl2",
+      "CO2",
+      "H2O"
+    ],
+    "conditions": "Cho calcium carbonate vào hydrochloric acid loãng.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g",
+      "l"
+    ],
+    "type": "Tạo khí",
+    "observation": "Chất rắn tan dần, có bọt carbon dioxide."
+  },
+  {
+    "id": "carbonate-acid",
+    "left": [
+      "Na2CO3",
+      "HCl"
+    ],
+    "right": [
+      "NaCl",
+      "CO2",
+      "H2O"
+    ],
+    "conditions": "Dung dịch, HCl đủ để acid hoá hoàn toàn carbonate.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g",
+      "l"
+    ],
+    "type": "Tạo khí",
+    "observation": "Sủi bọt khí mạnh không màu không mùi (CO₂), dung dịch trong suốt."
+  },
+  {
+    "id": "bicarbonate-acid",
+    "left": [
+      "NaHCO3",
+      "HCl"
+    ],
+    "right": [
+      "NaCl",
+      "CO2",
+      "H2O"
+    ],
+    "conditions": "Dung dịch trong nước.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g",
+      "l"
+    ],
+    "type": "Tạo khí",
+    "observation": "Sủi bọt khí mãnh liệt không màu (CO₂), phản ứng thu nhiệt làm đáy cốc mát lạnh."
+  },
+  {
+    "id": "silver-chloride",
+    "left": [
+      "AgNO3",
+      "NaCl"
+    ],
+    "right": [
+      "AgCl",
+      "NaNO3"
+    ],
+    "conditions": "Trộn hai dung dịch trong nước, khoảng nhiệt độ phòng.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "AgCl kết tủa trắng; bị sẫm màu dưới ánh sáng."
+  },
+  {
+    "id": "silver-bromide",
+    "left": [
+      "AgNO3",
+      "KBr"
+    ],
+    "right": [
+      "AgBr",
+      "KNO3"
+    ],
+    "conditions": "Trộn hai dung dịch trong nước.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "AgBr kết tủa vàng nhạt."
+  },
+  {
+    "id": "silver-iodide",
+    "left": [
+      "AgNO3",
+      "KI"
+    ],
+    "right": [
+      "AgI",
+      "KNO3"
+    ],
+    "conditions": "Trộn hai dung dịch trong nước.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "AgI kết tủa vàng."
+  },
+  {
+    "id": "barium-sulfate",
+    "left": [
+      "BaCl2",
+      "Na2SO4"
+    ],
+    "right": [
+      "BaSO4",
+      "NaCl"
+    ],
+    "conditions": "Trộn hai dung dịch trong nước.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "BaSO₄ kết tủa trắng."
+  },
+  {
+    "id": "barium-acid",
+    "left": [
+      "BaCl2",
+      "H2SO4"
+    ],
+    "right": [
+      "BaSO4",
+      "HCl"
+    ],
+    "conditions": "Trộn các dung dịch loãng.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Xuất hiện ngay kết tủa trắng tinh (BaSO₄), không tan trong acid mạnh."
+  },
+  {
+    "id": "copper-hydroxide",
+    "left": [
+      "CuSO4",
+      "NaOH"
+    ],
+    "right": [
+      "Cu(OH)2",
+      "Na2SO4"
+    ],
+    "conditions": "Trộn dung dịch ở nhiệt độ thường; không đun nóng.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Cu(OH)₂ kết tủa xanh lam."
+  },
+  {
+    "id": "iron3-hydroxide",
+    "left": [
+      "FeCl3",
+      "NaOH"
+    ],
+    "right": [
+      "Fe(OH)3",
+      "NaCl"
+    ],
+    "conditions": "Dung dịch trong nước.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Fe(OH)₃ kết tủa nâu đỏ."
+  },
+  {
+    "id": "iron2-hydroxide",
+    "left": [
+      "FeSO4",
+      "NaOH"
+    ],
+    "right": [
+      "Fe(OH)2",
+      "Na2SO4"
+    ],
+    "conditions": "Dung dịch mới pha, hạn chế oxygen để giữ Fe(II).",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Kết tủa lục nhạt; chuyển nâu dần khi bị oxygen oxi hoá."
+  },
+  {
+    "id": "magnesium-hydroxide",
+    "left": [
+      "MgCl2",
+      "NaOH"
+    ],
+    "right": [
+      "Mg(OH)2",
+      "NaCl"
+    ],
+    "conditions": "Trộn hai dung dịch.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Xuất hiện kết tủa trắng dạng keo xốp của magnesium hydroxide (Mg(OH)₂)."
+  },
+  {
+    "id": "aluminium-hydroxide",
+    "left": [
+      "AlCl3",
+      "NaOH"
+    ],
+    "right": [
+      "Al(OH)3",
+      "NaCl"
+    ],
+    "conditions": "NaOH vừa đủ, không dùng kiềm dư vì kết tủa có thể tan tiếp.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Xuất hiện kết tủa keo trắng (Al(OH)₃); kết tủa sẽ tan nếu tiếp tục cho kiềm NaOH dư."
+  },
+  {
+    "id": "zinc-hydroxide",
+    "left": [
+      "ZnCl2",
+      "NaOH"
+    ],
+    "right": [
+      "Zn(OH)2",
+      "NaCl"
+    ],
+    "conditions": "NaOH vừa đủ, không dùng kiềm dư.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Xuất hiện kết tủa màu trắng (Zn(OH)₂); kết tủa lưỡng tính tan được trong kiềm dư."
+  },
+  {
+    "id": "calcium-carbonate",
+    "left": [
+      "CaCl2",
+      "Na2CO3"
+    ],
+    "right": [
+      "CaCO3",
+      "NaCl"
+    ],
+    "conditions": "Trộn dung dịch trong nước.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Dung dịch vẩn đục rồi xuất hiện kết tủa trắng của calcium carbonate (CaCO₃)."
+  },
+  {
+    "id": "iron-copper",
+    "left": [
+      "Fe",
+      "CuSO4"
+    ],
+    "right": [
+      "FeSO4",
+      "Cu"
+    ],
+    "conditions": "Cho sắt sạch vào dung dịch copper(II) sulfate.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "s"
+    ],
+    "type": "Thế",
+    "observation": "Copper bám trên sắt. Kim loại bám được ghi (rắn), không dùng dấu kết tủa ion."
+  },
+  {
+    "id": "zinc-copper",
+    "left": [
+      "Zn",
+      "CuSO4"
+    ],
+    "right": [
+      "ZnSO4",
+      "Cu"
+    ],
+    "conditions": "Cho zinc vào dung dịch copper(II) sulfate.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "s"
+    ],
+    "type": "Thế",
+    "observation": "Kẽm tan dần, có lớp kim loại màu đỏ (Cu) bám ngoài miếng kẽm, màu xanh của dung dịch CuSO₄ nhạt dần."
+  },
+  {
+    "id": "copper-silver",
+    "left": [
+      "Cu",
+      "AgNO3"
+    ],
+    "right": [
+      "Cu(NO3)2",
+      "Ag"
+    ],
+    "conditions": "Cho copper vào dung dịch silver nitrate.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "s"
+    ],
+    "type": "Thế",
+    "observation": "Đồng tan dần, các tinh thể bạc sáng ánh kim (Ag) bám ngoài thanh đồng, dung dịch chuyển sang màu xanh lam."
+  },
+  {
+    "id": "peroxide",
+    "left": [
+      "H2O2"
+    ],
+    "right": [
+      "H2O",
+      "O2"
+    ],
+    "conditions": "Xúc tác MnO₂; có thể dùng nhiệt. Xúc tác không bị tiêu hao.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations",
+      "https://openstax.org/books/chemistry-2e/pages/12-7-catalysis"
+    ],
+    "phases": [
+      "l",
+      "g"
+    ],
+    "type": "Phân huỷ",
+    "observation": "Sủi bọt khí không màu làm que đóm bùng cháy (O₂); tỏa nhiều nhiệt khi có xúc tác MnO₂."
+  },
+  {
+    "id": "limestone-heat",
+    "left": [
+      "CaCO3"
+    ],
+    "right": [
+      "CaO",
+      "CO2"
+    ],
+    "conditions": "Nung mạnh, khoảng 900 °C; điều kiện phụ thuộc áp suất CO₂.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s",
+      "g"
+    ],
+    "type": "Phân huỷ",
+    "observation": "Khối lượng chất rắn giảm đi, sinh khí CO₂ thoát ra, thu được vôi sống màu trắng xốp (CaO)."
+  },
+  {
+    "id": "copper-hydroxide-heat",
+    "left": [
+      "Cu(OH)2"
+    ],
+    "right": [
+      "CuO",
+      "H2O"
+    ],
+    "conditions": "Đun nóng copper(II) hydroxide.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s",
+      "g"
+    ],
+    "type": "Phân huỷ",
+    "observation": "Chất rắn xanh chuyển thành CuO đen."
+  },
+  {
+    "id": "bicarbonate-heat",
+    "left": [
+      "NaHCO3"
+    ],
+    "right": [
+      "Na2CO3",
+      "CO2",
+      "H2O"
+    ],
+    "conditions": "Đun nóng sodium hydrogen carbonate.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s",
+      "g",
+      "g"
+    ],
+    "type": "Phân huỷ",
+    "observation": "Giải phóng khí CO₂ và hơi nước ngưng tụ trên thành ống nghiệm, để lại muối rắn Na₂CO₃."
+  },
+  {
+    "id": "chlorate",
+    "left": [
+      "KClO3"
+    ],
+    "right": [
+      "KCl",
+      "O2"
+    ],
+    "conditions": "Đun nóng; MnO₂ làm xúc tác.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations",
+      "https://openstax.org/books/chemistry-2e/pages/12-7-catalysis"
+    ],
+    "phases": [
+      "s",
+      "g"
+    ],
+    "type": "Phân huỷ",
+    "observation": "Chất rắn nóng chảy sủi bọt khí O₂ mạnh mẽ làm que đóm bùng cháy rực rỡ; tạo KCl rắn."
+  },
+  {
+    "id": "permanganate",
+    "left": [
+      "KMnO4"
+    ],
+    "right": [
+      "K2MnO4",
+      "MnO2",
+      "O2"
+    ],
+    "conditions": "Đun nóng potassium permanganate.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "s",
+      "s",
+      "g"
+    ],
+    "type": "Phân huỷ",
+    "observation": "Bột màu tím đen bị nhiệt phân, giải phóng khí O₂ làm que đóm cháy sáng, để lại hỗn hợp K₂MnO₄ và MnO₂ đen."
+  },
+  {
+    "id": "ammonia-release",
+    "left": [
+      "NH4Cl",
+      "NaOH"
+    ],
+    "right": [
+      "NaCl",
+      "NH3",
+      "H2O"
+    ],
+    "conditions": "Dung dịch, đun ấm để ammonia thoát ra.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g",
+      "l"
+    ],
+    "type": "Tạo khí",
+    "observation": "Sinh khí có mùi khai đặc trưng (NH₃) làm xanh giấy quỳ tím ẩm đặt ở miệng ống nghiệm."
+  },
+  {
+    "id": "limewater",
+    "left": [
+      "CO2",
+      "Ca(OH)2"
+    ],
+    "right": [
+      "CaCO3",
+      "H2O"
+    ],
+    "conditions": "Sục CO₂ từ từ vào nước vôi trong; Ca(OH)₂ dư, không dùng CO₂ dư.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "l"
+    ],
+    "type": "Kết tủa",
+    "observation": "Dung dịch nước vôi trong bị vẩn đục do tạo kết tủa trắng calcium carbonate (CaCO₃)."
+  },
+  {
+    "id": "carbonate-dissolve",
+    "left": [
+      "CaCO3",
+      "CO2",
+      "H2O"
+    ],
+    "right": [
+      "Ca(HCO3)2"
+    ],
+    "conditions": "Có CO₂ hoà tan dư trong nước; tạo hydrogencarbonate trong dung dịch.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq"
+    ],
+    "type": "Hoà tan / tạo muối acid",
+    "observation": "Kết tủa CaCO₃ vẩn đục tan dần khi có dòng khí CO₂ dư sục liên tục vào nước, dung dịch trở nên trong suốt."
+  },
+  {
+    "id": "copper-acid-oxygen",
+    "left": [
+      "Cu",
+      "HCl",
+      "O2"
+    ],
+    "right": [
+      "CuCl2",
+      "H2O"
+    ],
+    "conditions": "HCl có oxygen hoà tan / sục oxygen; quá trình oxi hoá có thể chậm.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "l"
+    ],
+    "type": "Oxi hoá – khử",
+    "observation": "Đồng đỏ tan chậm trong HCl khi có mặt oxygen, dung dịch dần chuyển sang màu xanh lục lam của CuCl₂."
+  },
+  {
+    "id": "lithium-carbonate",
+    "left": [
+      "Li2CO3",
+      "HCl"
+    ],
+    "right": [
+      "LiCl",
+      "CO2",
+      "H2O"
+    ],
+    "conditions": "Cho lithium carbonate vào dung dịch acid loãng.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g",
+      "l"
+    ],
+    "type": "Tạo khí",
+    "observation": "Chất rắn Li₂CO₃ tan sủi bọt khí không màu (CO₂), tạo dung dịch muối LiCl trong suốt."
+  },
+  {
+    "id": "strontium-sulfate",
+    "left": [
+      "SrCl2",
+      "Na2SO4"
+    ],
+    "right": [
+      "SrSO4",
+      "NaCl"
+    ],
+    "conditions": "Dung dịch với nồng độ đủ để vượt tích số tan.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Xuất hiện kết tủa trắng của strontium sulfate (SrSO₄) trong dung dịch."
+  },
+  {
+    "id": "cobalt-hydroxide",
+    "left": [
+      "CoCl2",
+      "NaOH"
+    ],
+    "right": [
+      "Co(OH)2",
+      "NaCl"
+    ],
+    "conditions": "Dung dịch trong nước, không thêm chất oxi hoá.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Xuất hiện kết tủa màu hồng tím hoặc xanh lam của Co(OH)₂, chuyển dần nâu khi bị oxi hóa."
+  },
+  {
+    "id": "zinc-carbonate-acid",
+    "left": [
+      "ZnCO3",
+      "HCl"
+    ],
+    "right": [
+      "ZnCl2",
+      "CO2",
+      "H2O"
+    ],
+    "conditions": "Cho zinc carbonate vào acid loãng.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g",
+      "l"
+    ],
+    "type": "Tạo khí",
+    "observation": "Chất rắn tan dần, sủi bọt khí không màu (CO₂), tạo dung dịch ZnCl₂ không màu."
+  },
+  {
+    "id": "silver-carbonate",
+    "left": [
+      "AgNO3",
+      "Na2CO3"
+    ],
+    "right": [
+      "Ag2CO3",
+      "NaNO3"
+    ],
+    "conditions": "Trộn hai dung dịch trong nước.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Xuất hiện kết tủa màu vàng nhạt của silver carbonate (Ag₂CO₃), nhạy cảm với ánh sáng."
+  },
+  {
+    "id": "silver-phosphate",
+    "left": [
+      "AgNO3",
+      "Na3PO4"
+    ],
+    "right": [
+      "Ag3PO4",
+      "NaNO3"
+    ],
+    "conditions": "Dung dịch; không acid hoá, phosphate phải đủ để tạo kết tủa.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "ppt",
+      "aq"
+    ],
+    "type": "Kết tủa",
+    "observation": "Xuất hiện kết tủa màu vàng tươi của silver phosphate (Ag₃PO₄)."
+  },
+  {
+    "id": "carbonate-silver-acid",
+    "left": [
+      "Ag2CO3",
+      "HNO3"
+    ],
+    "right": [
+      "AgNO3",
+      "CO2",
+      "H2O"
+    ],
+    "conditions": "Cho silver carbonate vào nitric acid loãng.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g",
+      "l"
+    ],
+    "type": "Tạo khí",
+    "observation": "Kết tủa Ag₂CO₃ tan dần trong nitric acid, sủi bọt khí CO₂, tạo dung dịch AgNO₃ trong suốt."
+  },
+  {
+    "id": "potassium-sulfite",
+    "left": [
+      "K2SO3",
+      "HCl"
+    ],
+    "right": [
+      "KCl",
+      "SO2",
+      "H2O"
+    ],
+    "conditions": "Acid hoá dung dịch sulfite.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g",
+      "l"
+    ],
+    "type": "Tạo khí",
+    "observation": "Sủi bọt khí có mùi hắc đặc trưng gây cay mắt của sulfur dioxide (SO₂)."
+  },
+  {
+    "id": "potassium-sulfide",
+    "left": [
+      "K2S",
+      "HCl"
+    ],
+    "right": [
+      "KCl",
+      "H2S"
+    ],
+    "conditions": "Acid hoá dung dịch sulfide; minh hoạ trên phần mềm.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g"
+    ],
+    "type": "Tạo khí",
+    "observation": "Sinh khí có mùi trứng thối đặc trưng rất khó chịu của hydrogen sulfide (H₂S)."
+  },
+  {
+    "id": "thiosulfate",
+    "left": [
+      "Na2S2O3",
+      "HCl"
+    ],
+    "right": [
+      "NaCl",
+      "SO2",
+      "S",
+      "H2O"
+    ],
+    "conditions": "Acid hoá dung dịch sodium thiosulfate.",
+    "sources": [
+      "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+      "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations"
+    ],
+    "phases": [
+      "aq",
+      "g",
+      "ppt",
+      "l"
+    ],
+    "type": "Oxi hoá – khử",
+    "observation": "Sulfur tạo vẩn đục, đồng thời sinh SO₂."
+  }
+]
